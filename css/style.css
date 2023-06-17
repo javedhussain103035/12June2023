@@ -1,0 +1,7 @@
+
+.j_search_input:focus + .j_search{
+    display: block;  /* Show */
+}
+.j_search{
+    display: none;  /* hide */
+}
